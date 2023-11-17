@@ -1,0 +1,20 @@
+pipeline {
+    agent any
+    stages {
+        stage('Build') {
+            steps {
+                print('je suis la')
+            }
+        }
+        stage('Test') {
+            steps {
+                print('non, je suis la')
+            }
+        }
+        stage('Deploy') {
+            steps {
+                print('enfaite, je suis la')
+            }
+        }
+    }
+}
