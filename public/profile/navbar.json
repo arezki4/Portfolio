@@ -1,0 +1,39 @@
+{
+    "logo" : {
+        "source": "images/perso.jpeg",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/inBuilding"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1Hz6hg43f35hzVlRLioOzJmH6VEFAVgxi/view?usp=sharing",
+            "type": "link"
+        }
+    ]
+
+}
