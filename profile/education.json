@@ -1,0 +1,37 @@
+{
+    "education":[
+        {
+            "title": "Master2 Ingenieur IA",
+            "cardTitle": "Master Degree",
+            "cardSubtitle":"Université Paris 8",
+            "cardDetailedText": "Septembre 2023 - Aujourd'hui",
+            "icon" : {
+                "src": "images/education/perso.jpeg"
+            }
+        },
+        {
+            "title": "Master1 en Informatique",
+            "cardTitle": "Master Degree",
+            "cardSubtitle":"Université Paris 8",
+            "cardDetailedText": "Septembre 2022 - septembre 2023"
+        },
+        {
+            "title": "3éme année de Licence ISEI",
+            "cardTitle": "Bachelor Degree",
+            "cardSubtitle":"Institut supérieur des ressource informatique ",
+            "cardDetailedText": "Septembre 2021 - septembre 2022"
+        },
+        {
+            "title": "Master en management des projets informatiques",
+            "cardTitle": "Maitrise",
+            "cardSubtitle":"Institut supérieur des ressource informatique ",
+            "cardDetailedText": "Septembre 2020 - juin 2021"
+        },
+        {
+            "title": "Licence en Informatique",
+            "cardTitle": "Bachelor Degree",
+            "cardSubtitle":"Université Paris Saclay",
+            "cardDetailedText": "Septembre 2018 - juin 2020"
+        }
+    ]
+}

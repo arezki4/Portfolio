@@ -1,0 +1,31 @@
+{
+    "experiences": [
+        {
+            "title": "Développement Logiciel chez SAP",
+            "subtitle": "Développeur FullStack",
+            "workType": "Alternance",
+            "workDescription": [
+                "ma mission pour cette alternance est d'incuber un nouveau composant SPI sur l'application de démonstration que j'ai développée durant mon stage, ce composant va charger à l'intérieur du membre selector des Metadata d'une base de données multidimensionnelle au lieu de membre de dimension, il devra respecter tout les critere et standard de SAP en terme de qualitée de code et de performance."
+            ],
+            "dateText": "Octobre/2023 – Aujourd'hui"
+        },
+        {
+            "title": "Développement Logiciel chez SAP",
+            "subtitle": "Développeur FullStack",
+            "workType": "Stage de Maitrise",
+            "workDescription": [
+                "Stage de 4 mois chez SAP qui consiste a développer une application de demonstration des capacités d'un composant de SAP Analytics Cloud 'le Member Selector', son but est de filtrer des données sur des dimensions d'un cube de données sur une base de donnée multi-dimensionnelles."
+            ],
+            "dateText": "Avril/2023 – Septembre/2023"
+        },
+        {
+            "title": "Développement Web",
+            "subtitle": "Developpeur Web FullStack",
+            "workType": "Stage de fin de licence",
+            "workDescription": [
+                "Stage de 2 mois dans une startup qui développe une application de gestion de personnel.J'y est effectué de nombreux développement d'abord de frontend , de correction de bug et enfin de développement de nouvelles fonctionnalisées."
+            ],
+            "dateText": "Juin/2022 – Août/2022"
+        }
+    ]
+}
